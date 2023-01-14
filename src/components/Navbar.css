@@ -1,0 +1,23 @@
+
+
+.navbar .nav-item a{
+    font-size: large;
+    color: yellow;
+
+}
+
+.navbar .nav-item a:hover {
+    color:rgb(4, 97, 29);
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+
+.navbar .navbar-brand {
+    color: rgb(67, 230, 89);
+    font-size:1.5rem;
+    margin-top: 4px;
+}
+.navbar .navbar-toggler{
+    color: azure;
+    background-color: rgb(186, 42, 17);
+}
